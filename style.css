@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #250057;
+}
+
+.input-box {
+    background-color: white;
+    width: 300px;
+    padding: 10px 30px;
+    margin: 300px 600px;
+    border-radius: 10px;
+}
+
+input {
+    width: 85%;
+    padding: 10px 0;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #555;
+}
+
+i {
+    font-size: 16px;
+    cursor: pointer;
+    color: red;
+}
